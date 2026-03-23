@@ -40,9 +40,6 @@ Scissor beats Paper
 Paper beats Stone
 
 
-📸 Screenshots
-(Add your game screenshots here for better presentation)
-
 🎯 Future Improvements
 
 🔊 Add sound effects
